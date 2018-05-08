@@ -1,3 +1,4 @@
 Hi, I'm master
 
-Hi i'm secondBranch //make conflict
+Hi i'm secondBranch //merge complete
+
